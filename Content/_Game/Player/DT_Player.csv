@@ -1,0 +1,6 @@
+,Type,Montage,PlayRate
+1,BackStep,AnimMontage'/Game/Character/Montages/Common/Roll/GrruZam_Rolling/GrruZam_B.GrruZam_B',1
+2,Roll,AnimMontage'/Game/Character/Montages/Common/Roll/Rolling_Montage.Rolling_Montage',1
+3,AirAction,AnimMontage'/Game/Character/Montages/Hammer/AirCombo/Hammer_Air_Start.Hammer_Air_Start',1
+4,Jump,AnimMontage'/Game/Character/Montages/Common/Double_Jump_Montage.Double_Jump_Montage',1
+5,Incapacitation,AnimMontage'/Game/Character/Montages/Hitted/Stun_Montage.Stun_Montage',1

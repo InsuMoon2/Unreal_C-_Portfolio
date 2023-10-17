@@ -1,0 +1,3 @@
+,Type,Montage,PlayRate
+1,Dead,AnimMontage'/Game/Character/Montages/Common/Enemy_DeadFall_Montage.Enemy_DeadFall_Montage',1
+2,Incapacitation,AnimMontage'/Game/Character/Montages/Hitted/Stun_Montage.Stun_Montage',1
