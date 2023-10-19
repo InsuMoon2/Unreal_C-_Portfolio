@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Weapon.cpp.obj": [
+			"SWeaponAirActionData.cpp.obj",
+			"SWeaponCheckBoxes.cpp.obj",
+			"SWeaponDetailsView.cpp.obj",
+			"SWeaponDoActionData.cpp.obj",
+			"SWeaponEquipmentData.cpp.obj",
+			"SWeaponHitData.cpp.obj",
+			"SWeaponLeftArea.cpp.obj",
+			"WeaponAssetEditor.cpp.obj",
+			"WeaponAssetFactory.cpp.obj",
+			"WeaponCommand.cpp.obj",
+			"WeaponContextMenu.cpp.obj",
+			"WeaponModule.cpp.obj",
+			"WeaponStyle.cpp.obj"
+		],
+		"Module.Weapon.gen.cpp.obj": [
+			"Weapon.init.gen.cpp.obj",
+			"WeaponAssetFactory.gen.cpp.obj"
+		]
+	}
+}
