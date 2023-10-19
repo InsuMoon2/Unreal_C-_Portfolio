@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Debugging.cpp.obj": [
+			"DebuggerCategory.cpp.obj",
+			"DebuggingModule.cpp.obj"
+		]
+	}
+}

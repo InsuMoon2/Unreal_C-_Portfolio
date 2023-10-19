@@ -1,0 +1,2 @@
+D:\SGA_Unreal\UC_Portfolio\Plugins\Debugging\Intermediate\Build\Win64\UE4Editor\Development\Debugging\Definitions.Debugging.h
+D:\SGA_Unreal\UC_Portfolio\Plugins\Debugging\Source\Debugging\Public\Debugging.h
