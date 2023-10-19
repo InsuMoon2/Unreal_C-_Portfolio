@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Debugging-0071.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SGA_Unreal\UC_Portfolio\Intermediate\Build\Win64\UC_PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\SGA_Unreal\UC_Portfolio\Plugins\Debugging\Intermediate\Build\Win64\UE4Editor\Development\Debugging\Module.Debugging.cpp.obj"
+"D:\SGA_Unreal\UC_Portfolio\Plugins\Debugging\Intermediate\Build\Win64\UE4Editor\Development\Debugging\Default.rc2.res"
+/OUT:"D:\SGA_Unreal\UC_Portfolio\Plugins\Debugging\Intermediate\Build\Win64\UE4Editor\Development\Debugging\UE4Editor-Debugging-0071.lib"
+/INCLUDE:IMPLEMENT_MODULE_Debugging
