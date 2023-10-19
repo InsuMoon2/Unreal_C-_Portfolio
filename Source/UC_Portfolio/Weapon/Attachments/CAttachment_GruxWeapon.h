@@ -1,0 +1,34 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Weapon/CAttachment.h"
+#include "CAttachment_GruxWeapon.generated.h"
+
+UCLASS()
+class UC_PORTFOLIO_API ACAttachment_GruxWeapon : public ACAttachment
+{
+	GENERATED_BODY()
+
+protected:
+	UPROPERTY(BlueprintReadOnly, EditAnywhere, Category = "Weapon")
+		class USkeletalMeshComponent* Weapon_Right;
+
+	UPROPERTY(BlueprintReadOnly, EditAnywhere, Category = "Weapon")
+		class USkeletalMeshComponent* Weapon_Left;
+
+	UPROPERTY(VisibleAnywhere, Category = "Capsule")
+		class UCapsuleComponent* Capsule_Right;
+
+	UPROPERTY(VisibleAnywhere, Category = "Capsule")
+		class UCapsuleComponent* Capsule_Left;
+
+public:
+	ACAttachment_GruxWeapon();
+
+protected:
+	virtual void BeginPlay() override;
+
+public:
+	virtual void Tick(float DeltaTime) override;
+
+};
