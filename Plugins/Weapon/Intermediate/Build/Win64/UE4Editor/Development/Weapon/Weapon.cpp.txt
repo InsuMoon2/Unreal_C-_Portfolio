@@ -1,0 +1,2 @@
+D:\SGA_Unreal\UC_Portfolio\Plugins\Weapon\Intermediate\Build\Win64\UE4Editor\Development\Weapon\Definitions.Weapon.h
+D:\SGA_Unreal\UC_Portfolio\Plugins\Weapon\Source\Weapon\Public\Weapon.h
