@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Weapon-0061.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\SGA_Unreal\UC_Portfolio\Intermediate\Build\Win64\UC_PortfolioEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\SGA_Unreal\UC_Portfolio\Plugins\Weapon\Intermediate\Build\Win64\UE4Editor\Development\Weapon\Module.Weapon.cpp.obj"
+"D:\SGA_Unreal\UC_Portfolio\Plugins\Weapon\Intermediate\Build\Win64\UE4Editor\Development\Weapon\Module.Weapon.gen.cpp.obj"
+"D:\SGA_Unreal\UC_Portfolio\Plugins\Weapon\Intermediate\Build\Win64\UE4Editor\Development\Weapon\Default.rc2.res"
+/OUT:"D:\SGA_Unreal\UC_Portfolio\Plugins\Weapon\Intermediate\Build\Win64\UE4Editor\Development\Weapon\UE4Editor-Weapon-0061.lib"
+/INCLUDE:IMPLEMENT_MODULE_Weapon
