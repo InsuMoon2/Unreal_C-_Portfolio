@@ -7,5 +7,6 @@
 <h4>개발 목표</h4>
 <ul>
   <li>블루프린트로 구현했던 기능들을 C++로 구현해보는 것에 중점을 두었다.</li>
-  <li>블루프린트로 진행하면서 부족하다고 생각하는 것에 추가적인 작업을 더해서 완성도를 높였다. (구조, UI Interface, Skill, Boss Behavior Tree 등등)</li>
+  <li>블루프린트로 진행하면서 부족하다고 생각하는 것에 추가적인 작업을 더해서 완성도를 높였다. </li>
+  (구조, UI Interface, Skill, Boss Behavior Tree 등등)
 </ul>
