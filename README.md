@@ -10,3 +10,5 @@
   <li>블루프린트로 진행하면서 부족하다고 생각하는 것에 추가적인 작업을 더해서 완성도를 높였다. </li>
   (구조, UI Interface, Skill, Boss Behavior Tree 등등)
 </ul>
+
+영상 링크 : https://www.youtube.com/watch?v=hWazQvsdSos&list=PLvOiSfwLo0Xe20pwzf_f4UQMY9CNhcys4&index=3
